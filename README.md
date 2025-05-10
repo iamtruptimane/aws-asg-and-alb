@@ -2,6 +2,10 @@
 # Working with Amazon EC2 Auto Scaling Groups and Application Load Balancer
 
 In this PROJECT, We will learn how to create and configure all the resources that are needed to automatically scale an application in response to load.
+## Initial setup
+![](https://github.com/iamtruptimane/aws-asg-and-alb/blob/main/img/env_before.png)
+## Final Setup
+![](https://github.com/iamtruptimane/aws-asg-and-alb/blob/main/img/env_after.png)
 
 
 
